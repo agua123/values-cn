@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">Wire Purse</string>
+
+    <string name="facebook_app_id">548131418855435</string>
+    <string name="fb_login_protocol_scheme">fb548131418855435</string>
+
+    <string name="multi_coin_wallet">多币种钱包</string>
+    <string name="multi_coin_wallet_desc">多币种安全存放</string>
+    <string name="cutting_edge_sucurity">先进的安全性</string>
+    <string name="builtin_security_desc">
+       最新安全技术
+       妥善保管你的资金
+    </string>
+    <string name="builtin_exchange">自带交易功能</string>
+    <string name="builtin_exchange_desc">便捷简单的数字货币交易与支持</string>
+
+    <string name="extra_premium_service">各种增值服务</string>
+    <string name="extra_premium_service_desc">
+        随时随地享受各种增值服务
+    </string>
+
+    <string name="email_address">邮箱地址</string>
+    <string name="password">密码</string>
+
+    <string name="login">登陆</string>
+    <string name="login_with_google">使用google登陆</string>
+
+    <string name="login_with_facebook">使用facebook登陆</string>
+
+    <string name="login_with_email">使用邮箱登陆</string>
+
+    <string name="login_with_twitter">使用Twitter登陆</string>
+
+    <string name="go_back">返回</string>
+
+    <string name="valid_email_required">请输入有效邮箱地址</string>
+
+    <string name="password_required">请输入密码</string>
+    <string name="app_logo">APP标志</string>
+
+    <string name="copyright_transcodium">&#169; Transcodium</string>
+    <string name="secure_url_required">请输入API</string>
+    <string name="network_request_failed">网络连接失败，请稍后再试</string>
+
+    <string name="unexpected_error">发生未知错误，请稍后再试</string>
+    <string name="code">Code</string>
+    <string name="login_success">登陆成功</string>
+    <string name="loading">加载中</string>
+    <string name="login_progress_text">请稍后，正在登陆</string>
+    <string name="google_login_failed">Google登陆失败，请稍后再试</string>
+    <string name="ooops">糟糕!</string>
+    <string name="unknown_social_provider">未知的社交账号 %1$s</string>
+    <string name="social_account_verification">%1$s 正在验证社交账号</string>
+    <string name="social_login_verification_info">
+       需要验证你的社交账号
+       请检查你注册社交账号的邮箱（如收件箱未找到，请在垃圾箱里查看）
+       verification code.
+    </string>
+    <string name="verification_code">验证码</string>
+    <string name="verify">验证</string>
+    <string name="cancel">取消</string>
+    <string name="resend">重试</string>
+
+    <string name="resend_after">重试</string>
+    <string name="resending_verification_code">重新发送验证码</string>
+    <string name="code_sent_to_your_email">验证码已发至邮箱</string>
+    <string name="invalid_code">无效的验证码</string>
+    <string name="verifying_code">验证码</string>
+
+    <string name="rsa_data_encryption_failed">初始数据加载失败</string>
+    <string name="rsa_data_decryption_failed">初始数据加载失败</string>
+
+    <string name="data_encryption_error">初始数据再次加载失败，如问题依旧存在请重新安装APP</string>
+    <string name="data_decryption_error">初始数据再次加载失败，如问题依旧存在请重新安装APP </string>
+
+    <string name="security_logout_message">已经安全退出，请重新登陆</string>
+
+    <string name="encrypted_data_part_extract_error">无法获得数据，如问题依旧存在，请重新安装APP</string>
+    <string name="data_decryption_failed_error">数据获取失败，如问题依旧存在，请重新安装APP </string>
+
+    <string name="facebook_login_failed">Facebook登陆失败</string>
+
+    <string name="facebook_login_cancelled">Facebook登陆请求取消</string>
+
+    <string name="twitter_login_failed">Twitter登陆失败</string>
+
+    <string name="missing_app_key">缺少APP KAY</string>
+    <string name="initialization_error">初始化失败</string>
+    <string name="initialization_error_message">初始化启动失败，APP即将关闭</string>
+    <string name="ok">确定!</string>
+
+    <string name="reset_password">重置密码</string>
+
+    <string name="注册">Signup</string>
+
+    <string name="critical_error_message">发生未知错误，请重新登陆(Code: %1$s)</string>
+
+    <string name="failed_to_generate_security_keys">无法创建安全密钥</string>
+
+    <string name="auth_required">需要验证</string>
+
+    <string name="drawer_open">打开文档</string>
+
+    <string name="drawer_close">关币文档</string>
+
+    <string name="setting">设置</string>
+
+    <string name="support">帮助</string>
+
+    <string name="logout">退出</string>
+
+    <string name="about">关于我们</string>
+
+    <string name="wallet">钱包</string>
+
+    <string name="exchange">交易</string>
+    <string name="w">w</string>
+    <string name="e">e</string>
+    <string name="current_balance">当前余额</string>
+
+    <string name="auth_not_found">未找到相关</string>
+
+    <string name="send">发送</string>
+    <string name="receive">接收</string>
+
+    <string name="history">历史记录</string>
+    <string name="network_not_available">网络无法连接，请检查网络接连</string>
+
+    <string name="updating">正在更新..</string>
+
+    <string name="more">更多</string>
+
+    <string name="server_request_failed">服务器连接失败，请稍后再试</string>
+
+    <string name="date_colon">日期:</string>
+    <string name="price_colon">价格:</string>
+
+    <string name="hello_greeting">你好 !, %1$s</string>
+    <string name="confirm_logout_message">即将退出，是否继续？</string>
+    <string name="yes">确定</string>
+    <string name="no_comma_cancel">取消</string>
+    <string name="logout_cancelled">取消退出</string>
+    <string name="no">不</string>
+    <string name="http_error">HTTP请求错误</string>
+    <string name="server_connection_failed">服务器连接失败</string>
+    <string name="deposit">充值</string>
+    <string name="receive_space_asset">接收 %1$s</string>
+    <string name="no_assets_available">当前余额不足，请联系客服</string>
+    <string name="deposit_asset">资产</string>
+    <string name="unknown_asset">未知资产 %1$s</string>
+    <string name="copy">复制</string>
+    <string name="generate">生成</string>
+    <string name="address_copied_to_clipboard">地址已复制</string>
+    <string name="app_loading_data">正在加载，请稍后</string>
+    <string name="send_space_asset">发送 %1$s</string>
+
+    <string name="send_to_address">发送到地址</string>
+    <string name="send_to_user">发送到用户</string>
+    <string name="scan_with_camera">扫一扫</string>
+
+    <string name="camera_permission_message">请允许获取相机功能 \'Allow\' when prompted on camera\'s permission</string>
+    <string name="camera_perm_denied">相机功能未打开</string>
+    <string name="qr_scanner_message">请对准二维码</string>
+    <string name="scanner_toggle_torch">调整手续费</string>
+    <string name="qrcode_has_empty_data">QRCode未获得数据</string>
+    <string name="unsupported_payment_address">付款地址不支持</string>
+    <string name="invalid_qr_code">QRCode未包含有效 %1$s 数据</string>
+    <string name="address">地址</string>
+    <string name="asset_name_space_address">%1$s 地址</string>
+    <string name="amount">金额</string>
+    <string name="save_address">保存地址</string>
+    <string name="label">标签</string>
+    <string name="label_optional">标签（可选）</string>
+    <string name="receipient_email_address">收取人电子邮箱</string>
+    <string name="amount_to_send">发送的金额</string>
+    <string name="operation_aborted_by_user">操作已被用户</string>终止
+    <string name="set_app_pin_message">
+        为确保安全，请设置4位数的访问密码。
+    </string>
+    <string name="four_digits_pin_code">4位数字密码</string>
+    <string name="confirm_pin_code">确认密码</string>
+    <string name="enable_fingerprint_support">启用指纹验证</string>
+    <string name="save">保存</string>
+    <string name="pincode_lenght_error">PIN码需要4位数字密码</string>
+    <string name="pincodes_dont_match">PIN码不正确</string>
+
+    <string name="enable_fingerprint_setting">
+       指纹验证未启用，请在“设置”中开启该功能
+    </string>
+    <string name="pincode_saved">PIN码保存成功</string>
+    <string name="enter_pincode">输入PIN码</string>
+    <string name="_continue">继续</string>
+    <string name="fingerprint_init_failed">多次尝试指纹验证错误</string>
+    <string name="fingerprint_auth_failed">指纹验证失败</string>
+    <string name="fingerprint">指纹</string>
+    <string name="fingerint_auth_msg">请确认指纹</string>
+    <string name="fingerprint_auth_instruction">
+        轻触指纹传感器
+    </string>
+    <string name="use_pin_code">使用密码</string>
+    <string name="use_fingerprint">使用指纹</string>
+    <string name="pin_code">PIN码</string>
+    <string name="idle_fingerprint_ui_closed">关闭指纹验证以减少资源浪费</string>
+    <string name="fingerprint_records_not_found">指纹验证未通过</string>
+    <string name="retry_msg">你已尝试了 %1$s 次</string>
+    <string name="invalid_pincode"> 无效的PIN码，你还可以尝试 %1$s 次 </string>
+    <string name="in_app_auth_failed">
+        INAPP身份验证失败，账号将锁定 %1$s 分钟
+    </string>
+    <string name="in_app_auth_success">InApp验证成功</string>
+    <string name="confirmation">确认</string>
+    <string name="confirm">确认</string>
+    <string name="invalid_crypto_address">无效的 %1$s 地址</string>
+    <string name="invalid_amount_to_send">发送金额无效</string>
+    <string name="payment_id">付款 ID</string>
+    <string name="recipient_address">收款人地址</string>
+    <string name="send_mode">发送模式</string>
+    <string name="internal">内部</string>
+    <string name="confirm_transfer">确认转移</string>
+    <string name="fingerprint_failed_msg">指纹无法应用或用户已关闭</string>
+    <string name="payment_id_or_destination_tag">付款 ID / 标记</string>
+    <string name="free_internal_tx">内部转账免费</string>
+    <string name="invalid_email_address">无效的邮箱地址</string>
+    <string name="external">外部</string>
+    <string name="default_loading_text">请稍后，正在处理</string>
+    <string name="login_home">返回主页</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="request">重试</string>
+    <string name="verification_code_instruction">点击“发送或重新发送”，以获得验证码/string>
+    <string name="passwords_do_not_match">密码错误</string>
+    <string name="full_name">全称</string>
+</resources>
